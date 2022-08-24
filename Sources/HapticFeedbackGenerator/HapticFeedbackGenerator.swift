@@ -3,7 +3,7 @@ import UIKit
 
 public struct HapticFeedbackGenerator {
 
-//    public init() { }
+    public init() { }
 
     /// Generate impact feedback with selected style
     /// - Parameter style: UIImpactFeedbackGenerator.FeedbackStyle
